@@ -1,4 +1,7 @@
 
+## 3-min-pytorch
+3분 딥러닝 파이토치맛 정리 中
+
 ## YJCAMP
 - 양재 AI CAMP에서 한 DL자료 정리 
   
