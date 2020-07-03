@@ -13,3 +13,6 @@
 
 ## dl_go
 - 딥러닝과 바둑 서평단
+
+## Neural-Network-Projects
+- 신경망 교과서 하는 중
