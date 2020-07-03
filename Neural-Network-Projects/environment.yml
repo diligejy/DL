@@ -1,4 +1,4 @@
-name: neural-network-projects-python
+name: nn-python
 dependencies:
   - python==3.6.8
   - pandas==0.23.4
