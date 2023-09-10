@@ -1,0 +1,1 @@
+1. [😎 ChatGPT의 진정한 대항마, 본인등판 메타(mata)의 LLaMA 2 - 😎 묻고 더블로가! 😎](https://youtu.be/zN30JodATrU)

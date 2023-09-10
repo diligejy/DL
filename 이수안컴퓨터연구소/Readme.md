@@ -1,0 +1,1 @@
+1. [파이토치 한번에 끝내기 PyTorch Full Tutorial Course](https://youtu.be/k60oT_8lyFw)

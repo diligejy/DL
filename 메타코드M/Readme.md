@@ -1,0 +1,1 @@
+1. [ChatGPT의 핵심개념인 '생성형 AI'를 쉽게 이해시켜드립니다ㅣ서울대 AI박사 (LLM, NLP)](https://youtu.be/3dEzMRL5VMk)

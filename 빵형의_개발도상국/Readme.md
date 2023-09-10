@@ -1,0 +1,1 @@
+1. [01. AI 웹앱을 만들기 위한 Gradio 기초 강의 - 빵형의 AI 활용 개발 강의](https://youtu.be/DThnZEr3Nw4)
