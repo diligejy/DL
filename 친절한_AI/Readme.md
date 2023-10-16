@@ -1,0 +1,1 @@
+1. [[76] 30분만에 보는 최신 인공지능 :: DALLE3 DALLE2 비교 & 네이버 CLOVA X 서비스](https://youtu.be/76lH5m6x0zE)
